@@ -1,4 +1,3 @@
 # Face-Mask-Recognition
 
-This recognizes faces.
-commit 1
+Detecting face masks using Python, Keras, OpenCV on real video streams
